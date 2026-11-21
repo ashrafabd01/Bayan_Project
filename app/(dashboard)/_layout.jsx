@@ -3,6 +3,7 @@ import { Colors } from '../../constants/Color'
 import { useColorScheme } from 'react-native'
 import { Ionicons } from '@expo/vector-icons'
 import UserOnly from '../../components/auth/UserOnly'
+import GuestOnly from '../../components/auth/GuestOnly'
 
 const { brand } = Colors
 
